@@ -1,3 +1,5 @@
 *.phpproj*
 *.sln*
 .idea
+node_modules/
+npm-debug.log*

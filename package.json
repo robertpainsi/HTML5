@@ -1,0 +1,22 @@
+{
+  "name": "html5",
+  "version": "1.0.0",
+  "description": "Catroid, also known as **Pocket Code**, is an on-device visual programming system for Android devices.",
+  "devDependencies": {
+    "jshint": "^2.9.3"
+  },
+  "scripts": {
+    "jshint": "jshint --config .jshintrc .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Catrobat/HTML5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Catrobat/HTML5/issues"
+  },
+  "homepage": "https://github.com/Catrobat/HTML5#readme"
+}

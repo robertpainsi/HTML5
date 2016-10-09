@@ -1,0 +1,5 @@
+**/*.min.js
+**/*.custom.js
+/Client/pocketCode/libs/soundjs/*
+node_modules/*
+ClientTests/qunit/*
